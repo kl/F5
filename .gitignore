@@ -1,0 +1,6 @@
+lib/*
+out/*
+.idea/*
+*.swp
+*.jar
+*.iml
